@@ -1,2 +1,2 @@
 # JAVA
-Java files, all at one place!!!
+Small Java files, all at one place!!!
